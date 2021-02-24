@@ -1,7 +1,5 @@
 # Hacking cheatsheet
 
-[![npm version][npm-version-src]][npm-version-href]
-[![npm downloads][npm-downloads-src]][npm-downloads-href]
 [![License][license-src]][license-href]
 [![Medium Badge](https://badgen.net/badge/icon/medium?icon=medium&label)](https://medium.com/@sandoche)
 [![Twitter: sandochee](https://img.shields.io/twitter/follow/sandochee.svg?style=social)](https://twitter.com/sandochee)
@@ -60,9 +58,5 @@ Copyright (c) Sandoche Adittane
 
 <!-- Badges -->
 
-[npm-version-src]: https://img.shields.io/npm/v/darkmode-js/latest.svg
-[npm-version-href]: https://npmjs.com/package/darkmode-js
-[npm-downloads-src]: https://img.shields.io/npm/dt/darkmode-js.svg
-[npm-downloads-href]: https://npmjs.com/package/darkmode-js
 [license-src]: https://img.shields.io/npm/l/darkmode-js.svg
 [license-href]: ./LICENSE
