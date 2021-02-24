@@ -6,7 +6,9 @@
 [![Medium Badge](https://badgen.net/badge/icon/medium?icon=medium&label)](https://medium.com/@sandoche)
 [![Twitter: sandochee](https://img.shields.io/twitter/follow/sandochee.svg?style=social)](https://twitter.com/sandochee)
 
-📑 A collection of cheatsheets I made while doing my learning month about penetration testing.
+📑 A collection of cheatsheets of hacking tools.
+
+I made them while doing my learning month about penetration testing.
 ### 👉 [Read more](https://medium.com/learning-lab/getting-started-with-ethical-hacking-1aa6401355fa)
 
 **This repository is made for educational purpose only. Performing hack attempt against a target without their explicit permission is illegal.**
