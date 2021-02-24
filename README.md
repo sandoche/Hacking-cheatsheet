@@ -8,35 +8,29 @@
 
 📑 A collection of cheatsheets of hacking tools.
 
-
-
-
 I made them while doing my learning month about penetration testing.
+
 ### 👉 [Read more](https://medium.com/learning-lab/getting-started-with-ethical-hacking-1aa6401355fa)
 
-
-
-*This repository is made for educational purpose only. Performing hack attempt against a target without their explicit permission is illegal.*
-
-
+_This repository is made for educational purpose only. Performing hack attempt against a target without their explicit permission is illegal._
 
 ## 📑 Hacking cheatsheet
 
 | Tool                                     |
 | ---------------------------------------- |
-| [Nmap](/cheatsheets/NMAP.md)             |
-| [Telnet](/cheatsheets/TELNET.md)         |
-| [Nessus](/cheatsheets/NESSUS.md)         |
-| [w3af](/cheatsheets/W3AF.md)             |
-| [Metasploit](/cheatsheets/METASPLOIT.md) |
-| [Zed Attack Proxy](/cheatsheets/ZAP.md)  |
 | [Burp](/cheatsheets/BURP.md)             |
-| [Sqlmap](/cheatsheets/SQLMAP.md)         |
-| [XSS](/cheatsheets/XSS.md)               |
-| [Netcat](/cheatsheets/NETCAT.md)         |
-| [Whois](/cheatsheets/WHOIS.md)           |
 | [Host](/cheatsheets/HOST.md)             |
+| [Metasploit](/cheatsheets/METASPLOIT.md) |
+| [Nessus](/cheatsheets/NESSUS.md)         |
+| [Netcat](/cheatsheets/NETCAT.md)         |
+| [Nmap](/cheatsheets/NMAP.md)             |
 | [Nslookup](/cheatsheets/NSLOOKUP.md)     |
+| [Sqlmap](/cheatsheets/SQLMAP.md)         |
+| [Telnet](/cheatsheets/TELNET.md)         |
+| [w3af](/cheatsheets/W3AF.md)             |
+| [Whois](/cheatsheets/WHOIS.md)           |
+| [XSS](/cheatsheets/XSS.md)               |
+| [Zed Attack Proxy](/cheatsheets/ZAP.md)  |
 
 ## 🤝 Contributing
 
